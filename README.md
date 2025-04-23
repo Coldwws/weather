@@ -1,9 +1,5 @@
 # Weather App 🌧️💙  
 
-## Preview  
-<p align="center">  
-  <img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/gif1.gif" width="400"/>  
-</p>  
 
 ---
 
